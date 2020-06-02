@@ -15,15 +15,11 @@ The team will take part at a series of Hackathon with the following objectives:
 
 [101]: https://fbai2.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=facebook-channel
 
-#### CURRENT TEAM
+#### Participants
 
 |Name   | Github | Website  | Email  |
 |---|---|---|---|
 |Fabrizio Bertoglio   | [@fabriziobertoglio1987][1]  |[Website][2]   | [email][3]  |
-
-#### APPLICANTS
-|Name   | Github | Website  | Email  |
-|---|---|---|---|
 |Vaghani Jaivik   |   |[Website][4]   | [email][5]  |
 |Ako   |   |   | [email][7]  |
 |Sam Epeagba   | [@epeagbas][9]  |   | [email][8]  |
