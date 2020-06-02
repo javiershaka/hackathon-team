@@ -1,4 +1,20 @@
 # Hackathon Team Mainpage
+The team will take part at a series of Hackathon with the following objectives:
+
+- **NO INTEREST IN THE MONETARY PRIZES** (Team size > 15 members)
+- Building great products
+- Attract Companies Attention (for ex. Facebook)
+
+#### CALENDAR
+
+|Name   | Company | Website  | Date |
+|---|---|---|---|
+|Artificial Intelligence Hackathon   | Facebook  |[Website][101]   | Deadline 5:00pm EDT Jun 24, 2020  |
+|Artificial Intelligence Hackathon   | Facebook  |[Website][101]   | Deadline 5:00pm EDT Sept 7, 2020  |
+
+
+[101]: https://fbai2.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=facebook-channel
+
 #### CURRENT TEAM
 
 |Name   | Github | Website  | Email  |
