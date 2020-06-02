@@ -15,7 +15,7 @@ The team will take part at a series of Hackathon with the following objectives:
 
 [101]: https://fbai2.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=facebook-channel
 
-#### Participants
+#### Users
 
 |Name   | Github | Website  | Email  |
 |---|---|---|---|
