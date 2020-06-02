@@ -48,7 +48,7 @@ The team will take part at a series of Hackathon with the following objectives:
 [12]: https://github.com/vedantiitkgp
 
 #### TASKS
-Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1?add_cards_query=is%3Aopen) to join the team. 
+Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1?add_cards_query=is%3Aopen). 
 
 #### ROLES AVAILABLE
 
