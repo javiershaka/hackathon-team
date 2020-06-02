@@ -28,7 +28,7 @@ The team will take part at a series of Hackathon with the following objectives:
 |Ako   |   |   | [email][7]  |
 |Sam Epeagba   | [@epeagbas][9]  |   | [email][8]  |
 |Khaled Abousead   |  |   | [email][10]  |
-|Vedeat Saraswat   |  |   | [email][11]  |
+|Vedeat Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
 
 [1]: https://github.com/fabriziobertoglio1987 
 [2]: https://fabriziobertoglio.xyz
@@ -45,6 +45,7 @@ The team will take part at a series of Hackathon with the following objectives:
 [10]: mailto:KHALED.ABOUSEADA42@bcmail.cuny.edu?subject=[GitHub]%20Hackathon%20Team
 
 [11]: mailto:vedantntpc@gmail.com?subject=[GitHub]%20Hackathon%20Team
+[12]: https://github.com/vedantiitkgp
 
 #### TASKS
 Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1?add_cards_query=is%3Aopen) to join the team. 
