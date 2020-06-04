@@ -1,6 +1,4 @@
 # Hackathon Team Mainpage
-The team will take part at a series of Hackathon with the following objectives:
-
 - **NO INTEREST IN THE MONETARY PRIZES** 
 - Team size > 15 members
 - Building great products
@@ -16,7 +14,7 @@ The team will take part at a series of Hackathon with the following objectives:
 
 [101]: https://fbai2.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=facebook-channel
 
-#### Users
+#### Participants
 
 |Name   | Github | Website  | Email  |
 |---|---|---|---|
@@ -66,7 +64,7 @@ You will work with [wit.ai](https://wit.ai) platform, collect basic amount of da
 
 **SOFTWARE ENGINEER - Backend**
 
-Backend API, Languages Javascript or Node.js
+Backend API, Languages Javascript OR Python OR Ruby OR Java
 
 **PRODUCT MANAGER**
 
