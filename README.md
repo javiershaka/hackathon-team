@@ -23,6 +23,7 @@ Send pull request with changes you would like to add to this repo and we will re
 |Name   | Github | Website  | Email  |
 |---|---|---|---|
 |Fabrizio Bertoglio   | [@fabriziobertoglio1987][1]  |[Website][2]   | [email][3]  |
+|Renan Machado   | [@renanmav][16]  |   |   |
 |Vaghani Jaivik   |   |[Website][4]   | [email][5]  |
 |Ako   |   |   | [email][7]  |
 |Sam Epeagba   | [@epeagbas][9]  |   | [email][8]  |
@@ -50,6 +51,8 @@ Send pull request with changes you would like to add to this repo and we will re
 [13]: https://github.com/ProBeta1
 [14]: https://probeta1.github.io/mywebsite/
 [15]: mailto:humblebeta@gmail.com?subject=[GitHub]%20Hackathon%20Team
+
+[16]: https://github.com/renanmav
 
 #### ROLES AVAILABLE
 
