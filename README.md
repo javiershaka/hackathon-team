@@ -2,7 +2,11 @@
 - **NO INTEREST IN THE MONETARY PRIZES** 
 - Team size > 15 members
 - Building great products
-- Companies Attention
+
+#### HOW TO CONTRIBUTE
+
+Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1). 
+Send pull request with changes you would like to add to this repo and @fabriziobertoglio1987 will review them.
 
 #### CALENDAR
 
@@ -47,11 +51,6 @@
 [14]: https://probeta1.github.io/mywebsite/
 [15]: mailto:humblebeta@gmail.com?subject=[GitHub]%20Hackathon%20Team
 
- 
-
-#### TASKS
-Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1?add_cards_query=is%3Aopen). 
-
 #### ROLES AVAILABLE
 
 **SOFTWARE ENGINEER - Mobile**
@@ -73,8 +72,3 @@ Ideate the product and distribute tasks to Software Engineers.
 **PROJECT MANAGER**
 
 Helping monitor project deadline.
-
-
-#### HOW TO CONTRIBUTE
-
-Please send pull request with changes you would like to add to this repo and @fabriziobertoglio1987 will review them.
