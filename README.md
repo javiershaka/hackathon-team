@@ -1,9 +1,10 @@
 # Hackathon Team Mainpage
 The team will take part at a series of Hackathon with the following objectives:
 
-- **NO INTEREST IN THE MONETARY PRIZES** (Team size > 15 members)
+- **NO INTEREST IN THE MONETARY PRIZES** 
+- Team size > 15 members
 - Building great products
-- Attract Companies Attention (for ex. Facebook)
+- Companies Attention
 
 #### CALENDAR
 
