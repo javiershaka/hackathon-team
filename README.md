@@ -53,9 +53,3 @@ Send pull request with changes you would like to add to this repo and we will re
 [15]: mailto:humblebeta@gmail.com?subject=[GitHub]%20Hackathon%20Team
 
 [16]: https://github.com/renanmav
-
-#### ROLES AVAILABLE
-
-**SOFTWARE ENGINEER - Mobile**
-
-ReactNative/JavaScript **AND/OR** Android.
