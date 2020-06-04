@@ -58,20 +58,4 @@ Send pull request with changes you would like to add to this repo and we will re
 
 **SOFTWARE ENGINEER - Mobile**
 
-You will work on the ReactNative **AND/OR** Android App. Familiarity with Camera and ML functionalities are also beneficial.
-
-**SOFTWARE ENGINEER - ML/DEEP LEARNING**
-
-You will work with [wit.ai](https://wit.ai) platform, collect basic amount of data to build our statistical model.
-
-**SOFTWARE ENGINEER - Backend**
-
-Backend API, Languages Javascript OR Python OR Ruby OR Java
-
-**PRODUCT MANAGER**
-
-Ideate the product and distribute tasks to Software Engineers.
-
-**PROJECT MANAGER**
-
-Helping monitor project deadline.
+ReactNative/JavaScript **AND/OR** Android.
