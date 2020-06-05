@@ -5,6 +5,7 @@
 
 #### HOW TO CONTRIBUTE
 
+Start by discussing [here](https://github.com/fabriziobertoglio1987/hackathon-team/issues/1).
 Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1). 
 Send pull request with changes you would like to add to this repo and we will review them.
 
