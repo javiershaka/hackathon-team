@@ -5,7 +5,7 @@
 
 #### HOW TO CONTRIBUTE
 
-1. Share on Facebook and Twitter, more info at [this discussion](https://github.com/fabriziobertoglio1987/hackathon-team/issues/4#issue-630599796)
+1. Share on Facebook and Twitter this [repo link](https://github.com/fabriziobertoglio1987/hackathon-team), more info at [this discussion](https://github.com/fabriziobertoglio1987/hackathon-team/issues/4#issue-630599796)
 2. Start by discussing [here](https://github.com/fabriziobertoglio1987/hackathon-team/issues/1).
 3. Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1). 
 4. Send pull request with changes you would like to add to this repo and we will review them.
