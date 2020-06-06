@@ -30,7 +30,7 @@
 |Ako   |   |   | [email][7]  |
 |Sam Epeagba   | [@epeagbas][9]  |   | [email][8]  |
 |Khaled Abousead   |  |   | [email][10]  |
-|Vedeat Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
+|Vedant Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
 |Abhinav Srivastava | [@ProBeta1][13]   | [Website][14]  | [email][15]  |
 |Juan Alegría   | [@zejiran][17]  |   | [email][18]  |
 |Bravish Ghosh   | [@LoopGlitch26][20] | [Website][21]  | [email][22]  |
