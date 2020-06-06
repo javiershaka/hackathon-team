@@ -1,8 +1,4 @@
 # Hackathon Team Mainpage
-- **NO INTEREST IN THE MONETARY PRIZES** 
-- Team size > 15 members
-- Building great products
-
 #### HOW TO CONTRIBUTE
 
 1. Share on Facebook and Twitter this [repo link](https://github.com/fabriziobertoglio1987/hackathon-team), more info at [this discussion](https://github.com/fabriziobertoglio1987/hackathon-team/issues/4#issue-630599796)
