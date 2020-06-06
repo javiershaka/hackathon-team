@@ -1,7 +1,7 @@
 # Hackathon Team Mainpage
 #### HOW TO CONTRIBUTE
 
-1. Share on Facebook and Twitter this [repo link](https://github.com/fabriziobertoglio1987/hackathon-team), more info at [this discussion](https://github.com/fabriziobertoglio1987/hackathon-team/issues/4#issue-630599796)
+1. **SHARE** on **Facebook** and **Twitter** this [**link](https://github.com/fabriziobertoglio1987/hackathon-team)**, more info at [this discussion](https://github.com/fabriziobertoglio1987/hackathon-team/issues/4#issue-630599796)
 2. Watch this repository to receive email notifications
 
 <img src="https://fabriziobertoglio.s3.eu-central-1.amazonaws.com/opensource/hackathon/how_to_watch_repo.png" height="150" />
