@@ -17,7 +17,7 @@ How to join:
 6) we will review the pull request
 
 **1 Pull request merged** (1 [issue][3] closed) and you will be part of this team. 
-We will register to the Hackathon in 1-2 weeks.
+We will register the **Team** to the Hackathon in 1 week.
 
 The [hackathon-team][5] project will have several teams and build different products, you should review the other projects at [this page][5].
 
