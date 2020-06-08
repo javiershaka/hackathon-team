@@ -11,7 +11,7 @@
 
 [300]: https://github.com/fabriziobertoglio1987/hackathon-team/projects/2
 
-#### PROJECTS - **1 WEEK LEFT TO REGISTRATION**
+#### PROJECTS - **1 WEEK LEFT TO REGISTER TO THE HACKATHON**
 
 Check each Project **PAGE** to have more info.
 |Name   | Page | Hackathon | Deadline |
