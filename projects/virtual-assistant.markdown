@@ -16,9 +16,13 @@ How to join:
 5) send pull request
 6) we will review the pull request
 
-**1 Pull request merged** (1 [issue][3] closed) and you will be part of the team. We will register to the Hackathon in 1-2 weeks.
+**1 Pull request merged** (1 [issue][3] closed) and you will be part of this team. 
+We will register to the Hackathon in 1-2 weeks.
+
+The [hackathon-team][5] project will have several teams and build different products, you should review the other projects at [this page][5].
 
 Pull requests to update this document are welcome.
 
 [3]: https://github.com/fabriziobertoglio1987/hackathon-team/projects/2
 [4]: https://fbai2.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=facebook-channel
+[5]: https://github.com/fabriziobertoglio1987/hackathon-team#projects
