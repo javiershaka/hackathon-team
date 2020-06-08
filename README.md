@@ -12,6 +12,10 @@
 [300]: https://github.com/fabriziobertoglio1987/hackathon-team/projects/2
 
 #### PROJECTS
+
+**1 WEEK LEFT TO REGISTRATION**
+
+Check each Project **PAGE** to have more info.
 |Name   | Page | Hackathon | Deadline |
 |---|---|---|---|
 | Virtual Assistant and Chatroom  | [More Info here][200] | [FB AI Hackathon][101]   | Deadline 5:00pm EDT Jun 24, 2020  |
