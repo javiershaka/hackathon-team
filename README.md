@@ -27,7 +27,7 @@
 
 [101]: https://fbai2.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=facebook-channel
 
-#### Participants
+#### Participants Available
 |Name   | Github | Website  | Email  |
 |---|---|---|---|
 |Fabrizio Bertoglio   | [@fabriziobertoglio1987][1]  |[Website][2]   | [email][3]  |
