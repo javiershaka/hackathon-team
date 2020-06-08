@@ -6,8 +6,10 @@
 
 <img src="https://fabriziobertoglio.s3.eu-central-1.amazonaws.com/opensource/hackathon/how_to_watch_repo.png" height="150" />
 
-3. Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1). 
+3. Please create and complete a task from our [kanban board][300]. 
 4. Send pull request with changes you would like to add to this repo and we will review them. Please add your details to the [list of participants](https://github.com/fabriziobertoglio1987/hackathon-team#participants) by sending a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
+[300]: https://github.com/fabriziobertoglio1987/hackathon-team/projects/2
 
 #### PROJECTS
 |Name   | Page | Hackathon | Deadline |
@@ -17,7 +19,6 @@
 [200]: https://github.com/fabriziobertoglio1987/hackathon-team/blob/master/projects/virtual-assistant.markdown
 
 #### CALENDAR
-
 |Name   | Company | Website  | Date |
 |---|---|---|---|
 |Artificial Intelligence Hackathon   | Facebook  |[Website][101]   | Deadline 5:00pm EDT Jun 24, 2020  |
