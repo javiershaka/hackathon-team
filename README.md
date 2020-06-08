@@ -9,6 +9,11 @@
 3. Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1). 
 4. Send pull request with changes you would like to add to this repo and we will review them. Please add your details to the [list of participants](https://github.com/fabriziobertoglio1987/hackathon-team#participants) by sending a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
+#### PROJECTS
+|Name   | Page | Hackathon | Deadline |
+|---|---|---|---|
+| Virtual Assistant and Chatroom  | [More Info here][] | [FB AI Hackathon][101]   | Deadline 5:00pm EDT Jun 24, 2020  |
+
 #### CALENDAR
 
 |Name   | Company | Website  | Date |
@@ -20,7 +25,6 @@
 [101]: https://fbai2.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=facebook-channel
 
 #### Participants
-
 |Name   | Github | Website  | Email  |
 |---|---|---|---|
 |Fabrizio Bertoglio   | [@fabriziobertoglio1987][1]  |[Website][2]   | [email][3]  |
