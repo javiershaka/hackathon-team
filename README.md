@@ -12,7 +12,9 @@
 #### PROJECTS
 |Name   | Page | Hackathon | Deadline |
 |---|---|---|---|
-| Virtual Assistant and Chatroom  | [More Info here][] | [FB AI Hackathon][101]   | Deadline 5:00pm EDT Jun 24, 2020  |
+| Virtual Assistant and Chatroom  | [More Info here][200] | [FB AI Hackathon][101]   | Deadline 5:00pm EDT Jun 24, 2020  |
+
+[200]: https://github.com/fabriziobertoglio1987/hackathon-team/blob/master/projects/virtual-assistant.markdown
 
 #### CALENDAR
 
