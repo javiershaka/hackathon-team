@@ -2,6 +2,7 @@
 |---|---|---|---|
 | Virtual Assistant and Chatroom  | [KanBan Board][3] | [FB AI Hackathon][4]   | Deadline 5:00pm EDT Jun 24, 2020  |
 
+**1 WEEK LEFT TO REGISTRATION**
 This project was discussed in issues [#1][1] and [#2][2]. Read those discussion for more details.
 
 [1]: https://github.com/fabriziobertoglio1987/hackathon-team/issues/1 
@@ -17,7 +18,7 @@ How to join:
 6) we will review the pull request
 
 **1 Pull request merged** (1 [issue][3] closed) and you will be part of this team. 
-We will register the **Team** to the Hackathon in 1 week.
+We will register the **Team** to the Hackathon in **1 week**.
 
 The [hackathon-team][5] project will have several teams and build different products, you should review the other projects at [this page][5].
 
