@@ -45,6 +45,7 @@ Check each Project **PAGE** to have more info.
 |Saravanan Selvamohan   | [@saravananselvamohan][23] | [Website][24]  | [email][25]  |
 |Abel C Dixon   | [@CasCard][26] | [Website][27]  | [email][28]  |
 |Animesh Mohanty| [@animeshmohanty][29] | [Website][30] | [email][31] |
+|Edmund Yong   | [@munjyong][32] | [Website][33]  | [email][34]  |
 
 
 [1]: https://github.com/fabriziobertoglio1987 
@@ -88,3 +89,7 @@ Check each Project **PAGE** to have more info.
 [29]: https://www.github.com/animeshmohanty
 [30]: https://www.linkedin.com/in/hokage
 [31]: mailto:animeshmohantyblitz@gmail.com?subject=[GitHub]%20Hackathon%20Team
+
+[32]: https://github.com/munjyong
+[33]: https://www.munjyong.dev/
+[34]: mailto:munjyong@gmail.com?subject=[GitHub]%20Hackathon%20Team
