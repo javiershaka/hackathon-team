@@ -46,8 +46,8 @@ Check each Project **PAGE** to have more info.
 |Abel C Dixon   | [@CasCard][26] | [Website][27]  | [email][28]  |
 |Animesh Mohanty| [@animeshmohanty][29] | [Website][30] | [email][31] |
 |Edmund Yong   | [@munjyong][32] | [Website][33]  | [email][34]  |
-|prdk0  | [@prdk0][35] |  | [email][36]
-
+|prdk0  | [@prdk0][35] |  | [email][36] |
+|Paolo Ranit | [@gittycoder01][37] | | |
 
 [1]: https://github.com/fabriziobertoglio1987 
 [2]: https://fabriziobertoglio.xyz
@@ -97,3 +97,5 @@ Check each Project **PAGE** to have more info.
 
 [35]: https://github.com/prdk0
 [36]: mailto:pradeek.k@gmail.com?subject=[GitHub]%20Hackathon%20Team
+
+[37]: https://github.com/gittycoder01
